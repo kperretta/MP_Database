@@ -8,7 +8,7 @@ Ogni cantiere ha bisogno di:
 - un impiegato che diriga i lavori,
 - operai qualificati che si occupino della manodopera,
 - autisti a cui possa essere affidata la guida di eventuali veicoli necessari.
--
+
 I materiali (cemento, mattoni, ecc.), devono essere acquistati dai fornitori dell’azienda.
 
 Ogni cantiere può essere commissionato da uno o più clienti, per i quali vengono memorizzati i dati identificativi e le informazioni di
